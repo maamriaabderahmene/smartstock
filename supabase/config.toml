@@ -1,0 +1,8 @@
+
+project_id = "cotbkbwmffmedoclzbam"
+
+[functions.assign-user-role]
+verify_jwt = false
+
+[functions.get-user-role]
+verify_jwt = false
